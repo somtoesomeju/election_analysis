@@ -32,4 +32,5 @@ A script that would be able to import the spreadsheet into our python terminal w
       file_to_load = os.path.join("Resources", "party_results.csv")
       file_to_save = os.path.join("analysis", "election_analysis_by_party.txt")
       
+   (note: we need to create a folder to store our data like the "resources" and "analysis" folders above).
 the first variable "file_to_load" will connect the "party_results.csv" sheet into our terminal. The second variable "file_to_save" prints out our results in a text file. Declaring both variables allow us to access the spreadsheet. Using the python intepreter we would be able to work with our data and produce results. 
