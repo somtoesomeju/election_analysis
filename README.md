@@ -19,7 +19,7 @@ After completing the analysis, the final results were as follows:
 - Denver county had the highest voter turnout. 
 - The percentage votes for all 3 counties were 10.5% (38,855) for Jefferson, 82.8% for Denver (272,892) and 6.7% (11,606) for Araphoe county.
 - With the highest number of votes (272,892), Diana Degette won the election. She had 73.8% of the votes.
-- Charles Casper Stockham finished as the runner up with 23.0% (85,213) of the votes. Raymon Anthony Doane finsihed last with 3.1% (11,606) of the votes. 
+- Charles Casper Stockham finished as the runner up with 23.0% (85,213) of the votes. Raymon Anthony Doane finished last with 3.1% (11,606) of the votes. 
 
 ## Summary
 The election data could have been analyzed and tallied in excel to produce similar results. However, using VS code I was able to demonstrate how to get the results using the python langauge. This type of analysis can be performed with any type of data for any election, as long as the csv is imported into the script. Using the "import" function the file can be declared as a variable and opened in VS code. An example would be for if we were trying to analyze the data for a spreadhseet named "party_results.csv". Lets say for instance, this csv sheet contains the election winner by political party and we are trying to analyse the result. 
