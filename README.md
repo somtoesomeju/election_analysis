@@ -1,7 +1,7 @@
 # election_analysis
 
 ## Overview of Project 
-In this project, I am helping Tom and Seth perform an audit on election results in Colorado. Tom and Seth are election officials. From the data we are going to derive the total number of votes, the percentage of votes by the county, and the winner of the election.
+In this project, I am helping Tom and Seth perform an audit on election results in 3 counties in Colorado. Tom and Seth are election officials. From the data we are going to derive the total number of votes, the percentage of votes by the county, and the winner of the election.
 
 ### Purpose
 The purpose of this project is to visualize how we can use python to extract and read data. This is done using the software: Visual Studio Code.
